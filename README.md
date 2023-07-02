@@ -1,5 +1,4 @@
-# LMSD
-Learning Metric Space with Distillation for Large-Scale Multi-Label Text Classification
+# Reference
 
 If you use the code, please cite the following [paper](https://link.springer.com/article/10.1007/s00521-023-08308-3):
 
